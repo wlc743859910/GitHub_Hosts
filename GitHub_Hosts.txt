@@ -41,6 +41,6 @@
 13.107.213.40 vscode.dev
 140.82.113.21 education.github.com
 
-# Update url: https://raw.github.ink/wlc743859910/GitHub_Hosts/master/GitHub_Hosts.txt
-# Star me: https://github.ink/wlc743859910/GitHub_Hosts/
+# Update url: https://github.com/wlc743859910/GitHub_Hosts/blob/master/GitHub_Hosts.txt
+# Star me: https://github.com/wlc743859910/GitHub_Hosts
 # GitHub_Hosts End
